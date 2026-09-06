@@ -1,0 +1,673 @@
+{
+  "parts": [
+    {
+      "id": "part_14",
+      "group": "tail",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 783,
+      "center": [
+        -0.0,
+        1197.4,
+        131.6
+      ],
+      "size": [
+        13.2,
+        51.0,
+        176.8
+      ],
+      "source": "ORCA_master Copy 1 (14).step"
+    },
+    {
+      "id": "part_169",
+      "group": "center",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        0.0,
+        0.9
+      ],
+      "tris": 26678,
+      "center": [
+        0.2,
+        531.0,
+        25.2
+      ],
+      "size": [
+        430.8,
+        299.2,
+        178.6
+      ],
+      "source": "ORCA_master Copy 1 (169).step"
+    },
+    {
+      "id": "part_17",
+      "group": "tail",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 2153,
+      "center": [
+        9.5,
+        1197.7,
+        50.2
+      ],
+      "size": [
+        14.1,
+        17.2,
+        8.0
+      ],
+      "source": "ORCA_master Copy 1 (17).step"
+    },
+    {
+      "id": "part_18",
+      "group": "tail",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 1405,
+      "center": [
+        -22.3,
+        1110.2,
+        1.2
+      ],
+      "size": [
+        44.5,
+        225.9,
+        105.7
+      ],
+      "source": "ORCA_master Copy 1 (18).step"
+    },
+    {
+      "id": "part_234",
+      "group": "tail",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 17979,
+      "center": [
+        0.0,
+        1112.1,
+        14.8
+      ],
+      "size": [
+        191.2,
+        229.8,
+        132.8
+      ],
+      "source": "ORCA_master Copy 1 (234).step"
+    },
+    {
+      "id": "part_33",
+      "group": "tail",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 1613,
+      "center": [
+        -0.0,
+        1108.1,
+        2.2
+      ],
+      "size": [
+        73.0,
+        221.8,
+        84.8
+      ],
+      "source": "ORCA_master Copy 1 (33).step"
+    },
+    {
+      "id": "part_76",
+      "group": "nose",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        -1.0,
+        0.15
+      ],
+      "tris": 9671,
+      "center": [
+        0.0,
+        175.0,
+        -9.2
+      ],
+      "size": [
+        152.8,
+        350.0,
+        151.9
+      ],
+      "source": "ORCA_master Copy 1 (76).step"
+    },
+    {
+      "id": "aft_fuselage",
+      "group": "aft",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.0,
+        0.15
+      ],
+      "tris": 12098,
+      "center": [
+        -0.0,
+        823.2,
+        -8.9
+      ],
+      "size": [
+        122.5,
+        348.0,
+        129.9
+      ],
+      "source": "ORCA_master Copy 1 - aft_fuselage.step"
+    },
+    {
+      "id": "clips",
+      "group": "center",
+      "material": "structure",
+      "explode": [
+        0.0,
+        0.0,
+        0.9
+      ],
+      "tris": 516,
+      "center": [
+        8.8,
+        422.7,
+        -22.8
+      ],
+      "size": [
+        52.0,
+        11.5,
+        5.0
+      ],
+      "source": "ORCA_master Copy 1 - clips.step"
+    },
+    {
+      "id": "elevator_asm_port",
+      "group": "tail",
+      "material": "control",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 3428,
+      "center": [
+        174.6,
+        1196.9,
+        5.0
+      ],
+      "size": [
+        269.0,
+        51.3,
+        23.1
+      ],
+      "source": "ORCA_master Copy 1 - elevator_asm_port.step"
+    },
+    {
+      "id": "elevator_asm_starboard",
+      "group": "tail",
+      "material": "control",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 3408,
+      "center": [
+        -174.6,
+        1196.9,
+        5.0
+      ],
+      "size": [
+        269.0,
+        51.3,
+        23.1
+      ],
+      "source": "ORCA_master Copy 1 - elevator_asm_starboard.step"
+    },
+    {
+      "id": "front_cover1",
+      "group": "nose",
+      "material": "cover",
+      "explode": [
+        0.0,
+        -1.0,
+        0.15
+      ],
+      "tris": 3090,
+      "center": [
+        35.4,
+        238.7,
+        56.2
+      ],
+      "size": [
+        70.7,
+        382.4,
+        65.5
+      ],
+      "source": "ORCA_master Copy 1 - front_cover1.step"
+    },
+    {
+      "id": "front_cover2",
+      "group": "nose",
+      "material": "cover",
+      "explode": [
+        0.0,
+        -1.0,
+        0.15
+      ],
+      "tris": 3108,
+      "center": [
+        -35.4,
+        238.7,
+        56.2
+      ],
+      "size": [
+        70.7,
+        382.4,
+        65.5
+      ],
+      "source": "ORCA_master Copy 1 - front_cover2.step"
+    },
+    {
+      "id": "mid_cover2",
+      "group": "aft",
+      "material": "cover",
+      "explode": [
+        0.0,
+        1.0,
+        0.15
+      ],
+      "tris": 2114,
+      "center": [
+        27.2,
+        782.1,
+        50.1
+      ],
+      "size": [
+        54.4,
+        369.7,
+        61.0
+      ],
+      "source": "ORCA_master Copy 1 - mid_cover2.step"
+    },
+    {
+      "id": "mid_cover_1",
+      "group": "aft",
+      "material": "cover",
+      "explode": [
+        0.0,
+        1.0,
+        0.15
+      ],
+      "tris": 2158,
+      "center": [
+        -27.2,
+        782.2,
+        50.1
+      ],
+      "size": [
+        54.4,
+        369.4,
+        61.0
+      ],
+      "source": "ORCA_master Copy 1 - mid_cover_1.step"
+    },
+    {
+      "id": "port_1_2",
+      "group": "wing_port",
+      "material": "airframe",
+      "explode": [
+        1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 17895,
+      "center": [
+        381.4,
+        490.9,
+        71.2
+      ],
+      "size": [
+        332.0,
+        211.3,
+        54.9
+      ],
+      "source": "ORCA_master Copy 1 - port_1_2.step"
+    },
+    {
+      "id": "port_3_1",
+      "group": "wing_port",
+      "material": "airframe",
+      "explode": [
+        1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 3489,
+      "center": [
+        631.9,
+        450.1,
+        88.8
+      ],
+      "size": [
+        189.0,
+        123.2,
+        20.7
+      ],
+      "source": "ORCA_master Copy 1 - port_3 (1).step"
+    },
+    {
+      "id": "port_4",
+      "group": "wing_port",
+      "material": "airframe",
+      "explode": [
+        1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 7158,
+      "center": [
+        815.2,
+        513.1,
+        101.9
+      ],
+      "size": [
+        215.5,
+        241.5,
+        41.9
+      ],
+      "source": "ORCA_master Copy 1 - port_4.step"
+    },
+    {
+      "id": "port_aileron_1",
+      "group": "wing_port",
+      "material": "control",
+      "explode": [
+        1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 2416,
+      "center": [
+        548.1,
+        520.7,
+        78.4
+      ],
+      "size": [
+        9.6,
+        22.4,
+        25.4
+      ],
+      "source": "ORCA_master Copy 1 - port_aileron (1).step"
+    },
+    {
+      "id": "port_aileron",
+      "group": "wing_port",
+      "material": "control",
+      "explode": [
+        1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 1948,
+      "center": [
+        635.2,
+        538.2,
+        84.0
+      ],
+      "size": [
+        174.4,
+        57.5,
+        14.4
+      ],
+      "source": "ORCA_master Copy 1 - port_aileron.step"
+    },
+    {
+      "id": "starboard_1_2",
+      "group": "wing_stbd",
+      "material": "airframe",
+      "explode": [
+        -1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 18238,
+      "center": [
+        -381.4,
+        490.9,
+        71.2
+      ],
+      "size": [
+        332.0,
+        211.3,
+        54.9
+      ],
+      "source": "ORCA_master Copy 1 - starboard_1_2.step"
+    },
+    {
+      "id": "starboard_3_1",
+      "group": "wing_stbd",
+      "material": "airframe",
+      "explode": [
+        -1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 3532,
+      "center": [
+        -631.9,
+        450.1,
+        88.8
+      ],
+      "size": [
+        189.0,
+        123.2,
+        20.7
+      ],
+      "source": "ORCA_master Copy 1 - starboard_3 (1).step"
+    },
+    {
+      "id": "starboard_4",
+      "group": "wing_stbd",
+      "material": "airframe",
+      "explode": [
+        -1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 6990,
+      "center": [
+        -815.2,
+        513.1,
+        101.9
+      ],
+      "size": [
+        215.5,
+        241.5,
+        41.9
+      ],
+      "source": "ORCA_master Copy 1 - starboard_4.step"
+    },
+    {
+      "id": "starboard_aileron_1",
+      "group": "wing_stbd",
+      "material": "control",
+      "explode": [
+        -1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 1886,
+      "center": [
+        -635.2,
+        538.2,
+        84.0
+      ],
+      "size": [
+        174.4,
+        57.5,
+        14.4
+      ],
+      "source": "ORCA_master Copy 1 - starboard_aileron (1).step"
+    },
+    {
+      "id": "starboard_aileron_2",
+      "group": "wing_stbd",
+      "material": "control",
+      "explode": [
+        -1.0,
+        0.0,
+        0.25
+      ],
+      "tris": 2426,
+      "center": [
+        -548.1,
+        520.7,
+        78.4
+      ],
+      "size": [
+        9.6,
+        22.4,
+        25.4
+      ],
+      "source": "ORCA_master Copy 1 - starboard_aileron (2).step"
+    },
+    {
+      "id": "tail_cover_1",
+      "group": "tail",
+      "material": "cover",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 1590,
+      "center": [
+        18.8,
+        1109.5,
+        -36.1
+      ],
+      "size": [
+        37.5,
+        212.7,
+        30.6
+      ],
+      "source": "ORCA_master Copy 1 - tail_cover_1.step"
+    },
+    {
+      "id": "tail_cover_2",
+      "group": "tail",
+      "material": "cover",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 1338,
+      "center": [
+        -18.7,
+        1109.5,
+        -36.1
+      ],
+      "size": [
+        37.5,
+        212.7,
+        30.6
+      ],
+      "source": "ORCA_master Copy 1 - tail_cover_2.step"
+    },
+    {
+      "id": "tail_port",
+      "group": "tail",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 3910,
+      "center": [
+        205.1,
+        1151.9,
+        0.1
+      ],
+      "size": [
+        219.0,
+        103.6,
+        17.7
+      ],
+      "source": "ORCA_master Copy 1 - tail_port.step"
+    },
+    {
+      "id": "tail_starboard",
+      "group": "tail",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 3886,
+      "center": [
+        -205.1,
+        1151.9,
+        0.1
+      ],
+      "size": [
+        219.0,
+        103.6,
+        17.7
+      ],
+      "source": "ORCA_master Copy 1 - tail_starboard.step"
+    },
+    {
+      "id": "tail_vertical",
+      "group": "tail",
+      "material": "airframe",
+      "explode": [
+        0.0,
+        1.2,
+        0.4
+      ],
+      "tris": 3640,
+      "center": [
+        -0.0,
+        1157.8,
+        153.9
+      ],
+      "size": [
+        17.8,
+        111.3,
+        153.2
+      ],
+      "source": "ORCA_master Copy 1 - tail_vertical.step"
+    }
+  ],
+  "totalTris": 170544,
+  "groups": {
+    "tail": 12,
+    "center": 2,
+    "nose": 3,
+    "aft": 3,
+    "wing_port": 5,
+    "wing_stbd": 5
+  }
+}
